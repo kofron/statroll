@@ -1,0 +1,7 @@
+% -*- erlang -*-
+{application, statroll,
+ [
+  {description, "rolling statistics application"},
+  {vsn, "1"}
+ ]
+}.
